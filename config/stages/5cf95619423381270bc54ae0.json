@@ -1,0 +1,17 @@
+{
+  "containerId": "5cf94e82423381270bc54adf",
+  "title": "Time to Rock (Paper, Scissors)",
+  "abiValidations": "$$LOOKUP",
+  "task": "$$LOOKUP",
+  "details": "$$LOOKUP",
+  "id": "5cf95619423381270bc54ae0",
+  "type": "CodeStage",
+  "language": "solidity",
+  "languageVersion": "0.4.19",
+  "testFramework": "truffle_with_mocha",
+  "codeFileIds": [
+    "5cf95619423381270bc54ae1",
+    "5cf95619423381270bc54ae2"
+  ],
+  "position": 0
+}
