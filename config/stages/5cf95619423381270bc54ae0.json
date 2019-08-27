@@ -13,5 +13,6 @@
     "5cf95619423381270bc54ae1",
     "5cf95619423381270bc54ae2"
   ],
-  "position": 0
+  "position": 0,
+  "completionMessage": "$$LOOKUP"
 }

@@ -4,6 +4,6 @@
   "containerType": "BuildingBlock",
   "description": null,
   "thumbnailUrl": null,
-  "productionReady": null,
+  "productionReady": false,
   "estimatedTime": null
 }

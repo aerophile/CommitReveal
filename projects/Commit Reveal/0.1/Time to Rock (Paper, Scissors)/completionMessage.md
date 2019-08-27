@@ -1,5 +1,5 @@
-## Say Congratulations!
+## Well Done ! 
 
-This is your chance to tell the user what a great job they did.
+You have successfully completed the first stage of commit Reveal tutorial tutorial
 
-And prep them for what's coming next! ;)
+See you in the next stages ;)

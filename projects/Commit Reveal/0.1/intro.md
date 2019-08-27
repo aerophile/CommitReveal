@@ -1,7 +1,7 @@
 # Commit Reveal
 
 
-The commit-reveal is one of the very foundations of the ways in which we securely interact with other entities on the blockchain. Austin Griffith in his videos on the topic called commit-reveal “an oldie but a goodie” :)
+The commit-reveal is one of the very foundations of the ways in which we securely interact with other entities on the blockchain. Austin Griffith in hThriftsburghis videos on the topic called commit-reveal “an oldie but a goodie” :)
 
 
 ### What is commit-reveal ?
@@ -11,9 +11,9 @@ As it evident from the name itself, commit-reveal is made up of two parts:
 
 > 2. **Reveal**: You reveal your choice, and everyone can verify that is in fact what you committed to.
 
-To put it more simply, commit-reveal allows you to tell the blockchain some information without the need to reveal exactly what that is initially. Later when you reveal your answer, others can verify that what you committed earlier is the same information that you just revealed. 
+To put it more simply, commit-reveal allows you to tell the blockchain some information without the need to reveal that information, atleast initially. Later when you reveal your answer, others can verify that what you committed earlier is the same information that you just revealed. 
 
-Are you curious about how do we do this? We use a technique called **hashing**. We will discuss hashing in more detail manner in the tutorials ahead.
+Are you curious about how do we do this? We use a technique called **hashing**. We will discuss hashing in more detail in the tutorials ahead.
 
 ### How about an example involving some magic ✨?
 
@@ -21,7 +21,10 @@ An example of commit-reveal could be the sealed envelope trick performed by many
 
 Next the trick is performed where you pick a seemingly random card from a deck (or write out a few random numbers) and then he **reveals** the answer in his envelope, viola its correct.  The audience is amazed and you are left wondering how ? 
 
-Did you see the commit-reveal here? He **commits** and seals his answer first so he can not change it later when it is **revealed**.
+Did you see the commit-reveal here? 
+
+
+He **commits** and seals his answer first so he can not change it later when it is **revealed**.
 
 [Image of the magician's revealed envelope (to be replaced)](https://s29877.pcdn.co/wp-content/uploads/2019/02/celebrity-in-envelope-trick-revealed.jpg)
 

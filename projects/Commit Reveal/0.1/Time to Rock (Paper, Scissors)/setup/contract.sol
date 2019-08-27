@@ -1,6 +1,6 @@
 pragma solidity ^0.4.19;
 
-contract Contract {
-	
+contract RockPaperScissors{
+    //write code here
+    
 }
-

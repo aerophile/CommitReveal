@@ -1,10 +1,12 @@
-## Solidity Task
+## Getting Set up 
 
-Outline the things that need to be done in order to write a smart contract that passes all of the test cases.
+Hey, Welcome ! Let's get started. In the first stage of this tutorial, you shall be familiarising yoursef and completing the Rock Paper Scissiors smart contract that's been provided here.
 
-You can write a list of actions like this:
+You're expected to be able to read and understand solidity for this tutorial. 
 
-- Add a constructor
-- Add a `public` `address` member variable named `recipient`
-- Store the senders address as the initial recipient.
+Your objectives in this stage are:
+
+- Add a structre called `Game` in the Contract `RockPaperScissors`
+- make two variables called  `player1` and  `player2` of type **address**
+- make a variable called 'game_pot' of type **uint256**
 
