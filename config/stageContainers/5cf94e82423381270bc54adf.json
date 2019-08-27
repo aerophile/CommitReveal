@@ -2,6 +2,6 @@
   "id": "5cf94e82423381270bc54adf",
   "type": "BuildingBlock",
   "stageContainerGroupId": "5cf94e82423381270bc54ade",
-  "version": "0.1",
+  "version": "Solidity v0.4.19",
   "intro": "$$LOOKUP"
 }

@@ -1,9 +1,9 @@
 {
-  "title": "Commit Reveal",
+  "title": "Commit -Reveal",
   "id": "5cf94e82423381270bc54ade",
   "containerType": "BuildingBlock",
   "description": null,
   "thumbnailUrl": null,
-  "productionReady": false,
+  "productionReady": true,
   "estimatedTime": null
 }
